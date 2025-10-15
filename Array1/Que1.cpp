@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
+// only function create because Error/Reminder of "reverseArray" function
 void reverseArray(vector<int>& arr, int M){
+    // two pointers
     int a = M+1;
     int b = arr.size()-1;
     while(a<=b){
