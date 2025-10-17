@@ -12,4 +12,4 @@ void reverseArray(vector<int>& arr, int M){
     }
 }
 
-// 2nd 4th 5th 2nd 3rd
+// 4th 2nd 3rd
