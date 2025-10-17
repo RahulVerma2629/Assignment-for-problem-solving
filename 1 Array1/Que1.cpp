@@ -11,3 +11,5 @@ void reverseArray(vector<int>& arr, int M){
         b--;
     }
 }
+
+// 2nd 4th 5th 2nd 3rd
